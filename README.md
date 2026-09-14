@@ -44,7 +44,6 @@ The model supports filtering, ranking, and time intelligence calculations.
 - YTD Theaters
 - YTD Rank
 - MoM Growth %
-- Top Movie
 
 ## Business Value
 
